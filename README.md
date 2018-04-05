@@ -8,6 +8,8 @@ This is repository for CekiBMD. A tool to prepare your database before update yo
 Installation
 ------------
 
+Download the latest version of application from [release](https://github.com/hoaaah/cekibmd/releases), and extract zip file to your computer.
+
 You need to install Visual Studio C++ Redistributable. You can download vcredist from microsoft website or [follow this link](https://www.microsoft.com/en-us/download/details.aspx?id=48145).
 
 For your additional information about vcredist installation, you can read this [gist from WPN-XM](https://github.com/WPN-XM/vcredist)
